@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_adator\src\relay_slave_src\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_adator\src\relay_slave_src\port.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_multi_6ch\single\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_standalong\src\single\key.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_standalong\src\single\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_waterpump\src\demo\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_waterpump\src\water\key.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_waterpump\src\water\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_waterpump\src\water\port.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_waterpump\src\water\pump.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>G:\winpro\kumyhoo\kumyhoo_waterpump\src\water\uart.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
